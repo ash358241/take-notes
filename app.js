@@ -1,6 +1,13 @@
  
 showNotes();
 
+//mode-changing
+let themeButton = document.getElementById("themeButton");
+let mainPart = document.getElementById("main-part");
+themeButton.addEventListener("click", function () {
+  mainPart.classList.toggle("body-container");
+});
+
 // If user adds a note, add it to the localStorage
 let addBtn = document.getElementById("addBtn");
 addBtn.addEventListener("click", function(e) {
