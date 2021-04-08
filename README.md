@@ -2,6 +2,8 @@
 
 ### We all want to organize our life precisely. For to do so, a note taking app can helps you a lot. 
 
+[Live-Site](https://ash358241.github.io/take-notes/)
+
 ## Features: 
 1. Adding Note
 2. Searching Note
